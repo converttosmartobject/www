@@ -9,3 +9,7 @@ canvas {
   margin-top: auto;
   margin-bottom: auto;
 }
+p {
+  color: black;
+  text-align: center;
+}

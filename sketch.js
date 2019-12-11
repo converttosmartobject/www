@@ -9,6 +9,8 @@ let Spider;
 // "of", "false", "deities", "dogma", "and", "loneliness", "sad",
 // "as", "a", "pile", "of", "shit", "in", "a", "world", "without", "flies."];
 
+
+//excerpt from Walt Whitman's "A Noiseless Patient Spider"
 let poem = ["surrounded", "detached", "in", "measureless", "oceans",
 "of", "space", "ceaselessly", "musing", "venturing", "throwing", "seeking",
 "the", "spheres", "to", "connect", "them"];
